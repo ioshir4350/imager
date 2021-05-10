@@ -3,6 +3,13 @@
 Live Link: https://imagerfront.herokuapp.com/
 Back End Github Link: https://github.com/ioshir4350/imagerback
 
+# Features
+
+1) Uploading the file
+2) Using AWS image recognition to detect what the image represents.
+3) Used S3 Bucket to store the images
+4) Stored metadata about the images in MongoDB.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
